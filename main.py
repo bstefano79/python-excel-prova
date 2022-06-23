@@ -1,4 +1,3 @@
-import openpyxl
 from openpyxl import Workbook
 wb = Workbook()#openpyxl.load_workbook('sample.xlsx')
 print(type(wb))
